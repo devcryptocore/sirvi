@@ -1,6 +1,6 @@
 # sirvi
 Sistema Inteligente para Ventas e Inventario - SIRVI
-<img src="images/logo.png"/>
+<img src="images/Logo.png"/>
 <img src="images/IMG-20240518-WA0006.jpg"/>
 <img src="images/IMG-20240518-WA0005.jpg"/>
 <img src="images/IMG-20240518-WA0004.jpg"/>
